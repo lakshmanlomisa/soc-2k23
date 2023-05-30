@@ -1,0 +1,44 @@
+nav,header,footer{
+    display: block;
+}
+body{
+    line-height: 1;
+    margin: 0;
+}
+nav{
+    width: 100%;
+    margin: 0;
+}
+nav ul{
+    background-color: #eee;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+ul.topnav li{
+    list-style: none;
+    float: left;
+}
+ul.topnav li a {
+    display: block;
+    text-decoration: none;
+    min-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 14px;
+    color: #666;
+
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color:#ffe6f9;
+}
+ p{
+    font-size: medium;
+ }
+ img{
+    -ms-flex-item-align:auto;
+ }
+ 
